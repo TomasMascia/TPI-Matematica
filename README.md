@@ -83,4 +83,4 @@ gcc avl.c -o avl
 
 ## Autores
 
-- Nombre — [@usuario](https://github.com/TomasMascia)
+- Nombre — [@TomasMascia](https://github.com/TomasMascia)
