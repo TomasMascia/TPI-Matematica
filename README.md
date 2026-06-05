@@ -84,3 +84,6 @@ gcc avl.c -o avl
 ## Autores
 
 - Nombre — [@TomasMascia](https://github.com/TomasMascia)
+- Nombre — [@Isabella Pratta]
+- Nombre — [@Lucas Dalmagro]
+- Nombre — [@Briscil Pereyra]
